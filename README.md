@@ -1,6 +1,3 @@
-<video src="https://github.com/user-attachments/assets/18b3cb8f-2f4a-467e-b14c-c90aa4ce0552" width="500" controls>
-  Your browser does not support the video tag.
-</video>
 
 # Watching-Chillin  
 
@@ -21,3 +18,7 @@ This repository serves as a sandbox for learning and experimenting with Jetpack 
 
 ## Note  
 This project is for **learning purposes only** and does not have any functional or production-ready features.  
+
+<video src="https://github.com/user-attachments/assets/18b3cb8f-2f4a-467e-b14c-c90aa4ce0552" width="300" hieght="400" controls>
+  Your browser does not support the video tag.
+</video>
